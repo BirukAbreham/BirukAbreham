@@ -1,32 +1,14 @@
 ![Header](assets/header.png)
 
-# Hello, folk! <img src="assets/hello.gif" width=50 />
+I'm an enthusiastic full stack developer and aspiring to be a senior full stack dev and DevOps engineer. I really enjoy reading books and engage in coversation. I do side project on my free time.
 
-My name is Biruk Abreham and I'm an enthusiastic full stack developer and apiring to be a senior full stack dev and DevOps engineer. I'm from Ethiopia, and currently working at WebSprix IT Solutions.
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][3.1]][3]
 
-## 🔭 Currently Working
-
-- On Ruby on Rails newsletter application
-- On my portfolio website
-
-## 🌱 Learning New Skills
-
-- Docker and Infrastructure as a Code
-- React.js
-
-📫 You can find me on [Twitter](https://twitter.com/abreham_biruk) and [LinkedIn](https://www.linkedin.com/in/biruk-abraham-3a09a9168/)
-
-<!--
-**BirukAbreham/BirukAbreham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[1.1]: /assets/linkedin.png "linked in tag"
+[2.1]: /assets/email.png "email tag"
+[3.1]: /assets/twitter.png "twitter tag"
+[1]: https://www.linkedin.com/in/biruk-abraham-3a09a9168/
+[2]: mailto:birukabreham0@gmail.com
+[3]: https://twitter.com/abreham_biruk
